@@ -1,0 +1,114 @@
+{
+  "data":[
+    {
+      "group_id": "Admin",
+      "group_name": "Administrator / Super User",
+      "group_description": "Administrator Priviledges",
+      "recordDate": "6/22/2020",
+      "recordTime": "5:31:28 AM",
+      "operator": "ic4admin",
+      "operation": "created",
+      "workstation": "192.168.43.163",
+      "recordCounter": "1"
+    },
+    {
+      "group_id": "User",
+      "group_name": "General User",
+      "group_description": "User Priviledges",
+      "recordDate": "6/22/2020",
+      "recordTime": "5:31:28 AM", 
+      "operator": "ic4admin",
+      "operation": "created",
+      "workstation": "192.168.43.163",
+      "recordCounter": "1"
+    },
+    {
+      "group_id": "Control",
+      "group_name": "Internal Control",
+      "group_description": "Internal Control Officers Priviledges",
+      "recordDate": "6/22/2020",
+      "recordTime": "5:31:28 AM",
+      "operator": "ic4admin",
+      "operation": "created",
+      "workstation": "192.168.43.163",
+      "recordCounter": "1"
+    },
+	{
+      "group_id": "BranchControl",
+      "group_name": "Branch Control Officers",
+      "group_description": "Branch Control Officers Priviledges",
+      "recordDate": "6/22/2020",
+      "recordTime": "5:31:28 AM",
+      "operator": "ic4admin",
+      "operation": "created",
+      "workstation": "192.168.43.163",
+      "recordCounter": "1"
+    },
+	{
+      "group_id": "Teller",
+      "group_name": "Teller",
+      "group_description": "Branch Tellers",
+      "recordDate": "6/22/2020",
+      "recordTime": "5:31:28 AM",
+      "operator": "ic4admin",
+      "operation": "created",
+      "workstation": "192.168.43.163",
+      "recordCounter": "1"
+    },
+	{
+      "group_id": "HeadTeller",
+      "group_name": "Head Teller",
+      "group_description": "Operations",
+      "recordDate": "6/22/2020",
+      "recordTime": "5:31:28 AM",
+      "operator": "ic4admin",
+      "operation": "created",
+      "workstation": "192.168.43.163",
+      "recordCounter": "1"
+    },
+	{
+      "group_id": "RegionalControl",
+      "group_name": "Regional Control",
+      "group_description": "Regional Control Officers Priviledges",
+      "recordDate": "6/22/2020",
+      "recordTime": "5:31:28 AM",
+      "operator": "ic4admin",
+      "operation": "created",
+      "workstation": "192.168.43.163",
+      "recordCounter": "1"
+    },
+	 {
+      "group_id": "ClusterOfficer",
+      "group_name": "Cluster Control Officer",
+      "group_description": "IClustser Control Officers Priviledges",
+      "recordDate": "6/22/2020",
+      "recordTime": "5:31:28 AM",
+      "operator": "ic4admin",
+      "operation": "created",
+      "workstation": "192.168.43.163",
+      "recordCounter": "1"
+    },
+	{
+      "group_id": "Zones",
+      "group_name": "Zonal Cordinator",
+      "group_description": "Zonal Cordinator Priviledges",
+      "recordDate": "6/22/2020",
+      "recordTime": "5:31:28 AM",
+      "operator": "ic4admin",
+      "operation": "created",
+      "workstation": "192.168.43.163",
+      "recordCounter": "1"
+    },
+	{
+      "group_id": "Auditor",
+      "group_name": "Internal Auditors",
+      "group_description": "Internal Auditors Priviledges",
+      "recordDate": "6/22/2020",
+      "recordTime": "5:31:28 AM",
+      "operator": "ic4admin",
+      "operation": "created",
+      "workstation": "192.168.43.163",
+      "recordCounter": "1"
+    }
+  ]
+}

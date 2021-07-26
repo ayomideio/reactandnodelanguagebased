@@ -1,0 +1,247 @@
+[
+  {
+      "key":"controlDashboard",
+  "parentKey":"ControlHub",
+      "label":"Control Hub Dashboard",
+      "icon":"pi pi-fw pi-home",
+      "url":"./",
+      "accessedby":[
+          {      
+            "permission":"admin",
+            "function":["view"]
+          },
+          {
+            "permission":"user",
+            "function":["view"]
+          }
+          ],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"create",
+      "workstation":"11.20.10.1",
+      "recordCounter":"1"
+  },
+  
+  {
+  "key":"workflows",
+      "parentKey":"ControlHub",
+      "icon":"pi pi-fw pi-user",
+      "label":"Workflows",
+      "items":[],
+      "accessedby":["adroit"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+  {
+  "key":"frameworks",
+      "parentKey":"ControlHub",
+      "icon":"pi pi-fw pi-user",
+      "label":"Frameworks",
+      "items":[],
+      "accessedby":["adroit"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+  {
+  "key":"exceptions",
+      "parentKey":"ControlHub",
+      "icon":"pi pi-fw pi-user",
+      "label":"Exceptions",
+      "items":[],
+      "accessedby":["adroit"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+  {
+  "key":"followup",
+      "parentKey":"ControlHub",
+      "icon":"pi pi-fw pi-user",
+      "label":"Follow Up",
+      "items":[],
+      "accessedby":["adroit"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+  {
+  "key":"investigation",
+      "parentKey":"ControlHub",
+      "icon":"pi pi-fw pi-user",
+      "label":"Investigation",
+      "items":[],
+      "accessedby":["adroit"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+  {
+  "key":"services",
+      "parentKey":"ControlHub",
+      "icon":"pi pi-fw pi-user",
+      "label":"Services",
+      "items":[],
+      "accessedby":["adroit"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+{
+  "key":"fruadManager",
+      "parentKey":"ControlHub",
+      "label":"Fruad Manager",
+      "icon":"pi pi-fw pi-user",
+      "items":[],
+      "accessedby":["adoit","user"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+ {
+      "key":"complianceDashboard",
+      "parentKey":"ComplianceHub",
+      "icon":"pi pi-fw pi-home",
+      "label":"Compliance Hub Dashboard",
+      "url":"./",
+  "accessedby":[
+          {      
+            "permission":"admin",
+            "function":["view"]
+          },
+          {
+            "permission":"adroit",
+            "function":["view"]
+          }
+          ],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"create",
+      "workstation":"11.20.10.1",
+      "recordCounter":"1"
+  },
+{
+  "key":"dueDiligence",
+      "parentKey":"ComplianceHub",
+      "label":"Customer Due Diligence",
+      "icon":"pi pi-fw pi-user",
+      "items":[],
+      "accessedby":["adoit"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+{
+  "key":"enhancedDiligence",
+      "parentKey":"ComplianceHub",
+      "label":"Enhanced Due Diligence",
+      "icon":"pi pi-fw pi-user",
+      "items":[],
+      "accessedby":["adoit"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+{
+  "key":"transactionMonitoring",
+      "parentKey":"ComplianceHub",
+      "label":"Transaction Monitoring",
+      "icon":"pi pi-fw pi-user",
+      "items":[],
+      "accessedby":["admin"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+{
+  "key":"riskrating",
+      "parentKey":"ComplianceHub",
+      "label":"Customer Risk Rating ",
+      "icon":"pi pi-fw pi-user",
+      "items":[],
+      "accessedby":["admin"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+{
+  "key":"regulatoryreports",
+      "parentKey":"ComplianceHub",
+      "label":"Regulatory Authority Reports",
+      "icon":"pi pi-fw pi-user",
+      "items":[],
+      "accessedby":["admin"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+{
+  "key":"fatca",
+      "parentKey":"ComplianceHub",
+      "label":"FATCA Reporting",
+      "icon":"pi pi-fw pi-user",
+      "items":[],
+      "accessedby":["admin"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+  },
+  {
+      "key":"accessmanagement",
+      "parentKey":"GeneralSetting",
+      "label":"Access Management",
+  "icon":"pi pi-fw pi-user",
+      "items":[],
+      "accessedby":["admin"],
+    "recordDate":"20200603",
+      "recordTime":"103040",
+      "operator":"adroit",
+      "operation":"edit",
+      "workstation":"11.20.10.1",
+      "recordCounter":"2"
+
+  }
+
+]

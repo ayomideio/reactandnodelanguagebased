@@ -1,0 +1,15 @@
+.react-bootstrap-table table {
+  table-layout: auto;
+}
+
+.react-bootstrap-table table tr {
+  cursor: pointer;
+}
+
+.react-bootstrap-table-pagination {
+  margin-top: 20px;
+}
+
+.react-bootstrap-table-page-btns-ul {
+  float: right;
+}
